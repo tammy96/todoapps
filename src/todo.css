@@ -1,0 +1,10 @@
+.formss {
+    width: 500px;
+    border: 2px solid red;
+}
+
+.todos {
+    width: 100%;
+    border: 2px solid #ddd;
+    height: fit-content;
+}
